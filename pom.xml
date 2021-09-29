@@ -62,7 +62,7 @@
 	</build>
 <distributionManagement>
     <repository>
-        <id>central</id>
+        <id>releases</id>
         <name>ip-172-31-18-193-releases</name>
         <url>http://ec2-13-234-78-158.ap-south-1.compute.amazonaws.com:8081/artifactory/libs</url>
     </repository>
