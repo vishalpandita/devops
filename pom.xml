@@ -60,16 +60,16 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
+<distributionManagement>
     <repository>
-        <id>releases</id>
+        <id>central</id>
         <name>ip-172-31-18-193-releases</name>
-        <url>http://ec2-65-0-85-123.ap-south-1.compute.amazonaws.com:8081/artifactory/libs</url>
+        <url>http://ec2-13-234-78-158.ap-south-1.compute.amazonaws.com:8081/artifactory/libs</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-18-193-snapshots</name>
-        <url>http://ec2-65-0-85-123.ap-south-1.compute.amazonaws.com:8081/artifactory/libs</url>
+        <url>http://ec2-13-234-78-158.ap-south-1.compute.amazonaws.com:8081/artifactory/libs</url>
     </snapshotRepository>
 </distributionManagement>
 	<scm>
