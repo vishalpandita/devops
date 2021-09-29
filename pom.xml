@@ -60,18 +60,18 @@
 			</plugin>
 		</plugins>
 	</build>
-<distributionManagement>
-    <repository>
-        <id>releases</id>
-        <name>ip-172-31-18-193-releases</name>
-        <url>http://artifactory.vishalpandita.tk:8081/artifactory/libs</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-18-193-snapshots</name>
-        <url>http://artifactory.vishalpandita.tk:8081/artifactory/libs</url>
-    </snapshotRepository>
-</distributionManagement>
+	<distributionManagement>
+	    <repository>
+	        <id>releases</id>
+	        <name>ip-172-31-18-193-releases</name>
+	        <url>http://artifactory.vishalpandita.tk:8081/artifactory/libs</url>
+	    </repository>
+	    <snapshotRepository>
+	        <id>snapshots</id>
+	        <name>ip-172-31-18-193-snapshots</name>
+	        <url>http://artifactory.vishalpandita.tk:8081/artifactory/libs</url>
+	    </snapshotRepository>
+	</distributionManagement>
 	<scm>
 		<url>git@github.com:vishalpandita/devops.git</url>
 		<connection>scm:git:git@github.com:vishalpandita/devops.git</connection>
