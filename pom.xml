@@ -63,13 +63,13 @@
 	<distributionManagement>
 	    <repository>
 	        <id>releases</id>
-	        <name>ip-172-31-18-193-releases</name>
-	        <url>http://artifactory.vishalpandita.tk:8081/artifactory/libs</url>
+	        <name>5c2ac80217eb-releases</name>
+	        <url>http://10.10.154.34:8081/artifactory/libs</url>
 	    </repository>
 	    <snapshotRepository>
 	        <id>snapshots</id>
-	        <name>ip-172-31-18-193-snapshots</name>
-	        <url>http://artifactory.vishalpandita.tk:8081/artifactory/libs</url>
+	        <name>5c2ac80217eb-snapshots</name>
+	        <url>http://10.10.154.34:8081/artifactory/libs</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	<scm>
