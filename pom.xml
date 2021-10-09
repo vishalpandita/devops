@@ -74,9 +74,9 @@
 	    </snapshotRepository>
 	</distributionManagement>
 	<scm>
-		<url>https://github.com/vishalpandita/devops.git</url>
-		<connection>scm:git:https://github.com/vishalpandita/devops.git</connection>
-		<developerConnection>scm:git:https://github.com/vishalpandita/devops.git</developerConnection>
+		<url>git@github.com:vishalpandita/devops.git</url>
+		<connection>scm:git:git@github.com:vishalpandita/devops.git</connection>
+		<developerConnection>scm:git:git@github.com:vishalpandita/devops.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 </project>
