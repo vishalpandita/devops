@@ -10,7 +10,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
 
-	<version>0.1.44-SNAPSHOT</version>
+	<version>0.1.45-SNAPSHOT</version>
 
 	<packaging>war</packaging>
 	<name>devops</name>
